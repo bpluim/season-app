@@ -25,8 +25,16 @@
     color: red;
 }
 
+.spring {
+    background-color: rgb(120, 230, 120);
+}
+
 .summer {
     background-color: orange;
+}
+
+.fall {
+    background-color: rgb(88, 77, 55);
 }
 
 .winter {
